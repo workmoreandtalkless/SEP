@@ -1,0 +1,3 @@
+C:\Users\guohu\source\repos\Lab5\Exercise8\obj\Debug\netcoreapp3.1\Exercise8.AssemblyInfoInputs.cache
+C:\Users\guohu\source\repos\Lab5\Exercise8\obj\Debug\netcoreapp3.1\Exercise8.AssemblyInfo.cs
+C:\Users\guohu\source\repos\Lab5\Exercise8\obj\Debug\netcoreapp3.1\Exercise8.csproj.CoreCompileInputs.cache
