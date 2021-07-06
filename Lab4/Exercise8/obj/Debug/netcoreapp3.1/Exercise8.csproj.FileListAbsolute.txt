@@ -1,0 +1,13 @@
+C:\Users\guohu\source\repos\Lab4\Exercise8\obj\Debug\netcoreapp3.1\Exercise8.AssemblyInfoInputs.cache
+C:\Users\guohu\source\repos\Lab4\Exercise8\obj\Debug\netcoreapp3.1\Exercise8.AssemblyInfo.cs
+C:\Users\guohu\source\repos\Lab4\Exercise8\obj\Debug\netcoreapp3.1\Exercise8.csproj.CoreCompileInputs.cache
+C:\Users\guohu\source\repos\Lab4\Exercise8\bin\Debug\netcoreapp3.1\Exercise8.exe
+C:\Users\guohu\source\repos\Lab4\Exercise8\bin\Debug\netcoreapp3.1\Exercise8.deps.json
+C:\Users\guohu\source\repos\Lab4\Exercise8\bin\Debug\netcoreapp3.1\Exercise8.runtimeconfig.json
+C:\Users\guohu\source\repos\Lab4\Exercise8\bin\Debug\netcoreapp3.1\Exercise8.runtimeconfig.dev.json
+C:\Users\guohu\source\repos\Lab4\Exercise8\bin\Debug\netcoreapp3.1\Exercise8.dll
+C:\Users\guohu\source\repos\Lab4\Exercise8\bin\Debug\netcoreapp3.1\Exercise8.pdb
+C:\Users\guohu\source\repos\Lab4\Exercise8\obj\Debug\netcoreapp3.1\Exercise8.dll
+C:\Users\guohu\source\repos\Lab4\Exercise8\obj\Debug\netcoreapp3.1\Exercise8.pdb
+C:\Users\guohu\source\repos\Lab4\Exercise8\obj\Debug\netcoreapp3.1\Exercise8.genruntimeconfig.cache
+C:\Users\guohu\source\repos\Lab4\Exercise8\obj\Debug\netcoreapp3.1\Exercise8.csproj.AssemblyReference.cache

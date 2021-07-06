@@ -1,0 +1,13 @@
+C:\Users\guohu\source\repos\Lab4\Exercise2\bin\Debug\netcoreapp3.1\Exercise2.exe
+C:\Users\guohu\source\repos\Lab4\Exercise2\bin\Debug\netcoreapp3.1\Exercise2.deps.json
+C:\Users\guohu\source\repos\Lab4\Exercise2\bin\Debug\netcoreapp3.1\Exercise2.runtimeconfig.json
+C:\Users\guohu\source\repos\Lab4\Exercise2\bin\Debug\netcoreapp3.1\Exercise2.runtimeconfig.dev.json
+C:\Users\guohu\source\repos\Lab4\Exercise2\bin\Debug\netcoreapp3.1\Exercise2.dll
+C:\Users\guohu\source\repos\Lab4\Exercise2\bin\Debug\netcoreapp3.1\Exercise2.pdb
+C:\Users\guohu\source\repos\Lab4\Exercise2\obj\Debug\netcoreapp3.1\Exercise2.csproj.AssemblyReference.cache
+C:\Users\guohu\source\repos\Lab4\Exercise2\obj\Debug\netcoreapp3.1\Exercise2.AssemblyInfoInputs.cache
+C:\Users\guohu\source\repos\Lab4\Exercise2\obj\Debug\netcoreapp3.1\Exercise2.AssemblyInfo.cs
+C:\Users\guohu\source\repos\Lab4\Exercise2\obj\Debug\netcoreapp3.1\Exercise2.csproj.CoreCompileInputs.cache
+C:\Users\guohu\source\repos\Lab4\Exercise2\obj\Debug\netcoreapp3.1\Exercise2.dll
+C:\Users\guohu\source\repos\Lab4\Exercise2\obj\Debug\netcoreapp3.1\Exercise2.pdb
+C:\Users\guohu\source\repos\Lab4\Exercise2\obj\Debug\netcoreapp3.1\Exercise2.genruntimeconfig.cache
